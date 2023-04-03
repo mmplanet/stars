@@ -10,6 +10,9 @@ Configure the database connection and run the following commands in this order:
 - `symfony serve`
 
 
+API DOC (JSON):
+http://localhost:8010/api/doc.json
+
 for /api endpoints, the 
 `Sky-authorization : main300` header is needed.
 Unique stars api endpoint example:
